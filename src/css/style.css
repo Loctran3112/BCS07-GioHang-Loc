@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.bgImage{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 97vh;
+    /* width: 99%; */
+}
+.nameShoes:hover{
+    cursor: pointer;
+    color: goldenrod;
+}
